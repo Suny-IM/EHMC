@@ -108,6 +108,7 @@ less than or equal to 5 and the quality score (quality socre = completeness - 5 
    The corresponding genome info you have in "path_to_drep/bins" need to list in the file "path_to_drep/genomeInfo.csv".
 
    Example lines for genomeInfo.csv
+   
    ![image](https://github.com/Suny-IM/EHMC/assets/166774491/4dac8d97-9a18-421c-bb45-50162769bb43)
 
    
