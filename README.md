@@ -105,7 +105,7 @@ less than or equal to 5 and the quality score (quality socre = completeness - 5 
 
    Example lines for genomeInfo.csv
 
-  ![image](https://github.com/Suny-IM/EHMC/assets/166774491/a43281fc-dcb8-408b-9fed-760d6f2bfd7e)
+   ![image](https://github.com/Suny-IM/EHMC/assets/166774491/a43281fc-dcb8-408b-9fed-760d6f2bfd7e)
 
 
 
