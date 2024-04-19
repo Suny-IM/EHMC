@@ -1,6 +1,0 @@
-Habitat	Function	Allfaa_num	Annoted_num	Unannoted_num
-all5habitat	COG	62713300	27491201	35222099
-all5habitat	KEGG	62713300	21071188	41642112
-all5habitat	SwissProt	62713300	13042391	49670909
-all5habitat	UniRef100	62713300	40414122	22299178
-all5habitat	Pfam	62713300	37280849	25432451

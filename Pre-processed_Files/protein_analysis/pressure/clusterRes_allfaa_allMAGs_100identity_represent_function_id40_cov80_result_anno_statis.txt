@@ -1,6 +1,0 @@
-Habitat	Function	Allfaa_num	Annoted_num	Unannoted_num
-pressure	COG	16184575	7338691	8845884
-pressure	KEGG	16184575	5865356	10319219
-pressure	SwissProt	16184575	3725066	12459509
-pressure	UniRef100	16184575	10977923	5206652
-pressure	Pfam	16184575	9858475	6326100
