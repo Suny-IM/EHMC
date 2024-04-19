@@ -1,4 +1,4 @@
-# 【The construction of metagenome-assembled genomes by a combinational strategy of single and co-assembly 临时脚本名】
+# The construction of metagenome-assembled genomes by a combinational strategy of single and co-assembly
 
 
 This directory contains scripts related to the manuscript "【文章名】".
@@ -135,7 +135,9 @@ In script run_nmf.R, we set the chosing rank from 2 to 25, but in real operation
 
 Chosing a suitable rank number by "consensusmap.pdf" and "nmf_rank_survey.pdf" image.
 
-![a4b09148e610431bcfc3cfabdb3c17b0.png](en-resource://database/6993:1) ![aea99d9e6a0224d3823796f9e88d7b16.png](en-resource://database/6995:1)
+![image](https://github.com/Suny-IM/EHMC/assets/166774491/4aacedad-d574-4903-ba4d-0d7945e9b961) ![image](https://github.com/Suny-IM/EHMC/assets/166774491/93dff78b-2797-416b-895c-733e9afa2cda)
+
+
 
 For two picture showing as example here, we think rank 9 will be good enough, we chose the rank based on the number that cophenetic start to drop, also take consensusmap into consideration.
 
@@ -175,7 +177,8 @@ less than or equal to 5 and the quality score (quality socre = completeness - 5 
 
    Example lines for genomeInfo.csv
 
-   ![4440d2462214078ed64b26b1c621929d.png](en-resource://database/6991:1)
+  ![image](https://github.com/Suny-IM/EHMC/assets/166774491/45e99758-49b9-42e5-bf25-113fd775545d)
+
 
 ##### Run dRep
 
