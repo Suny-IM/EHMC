@@ -1,0 +1,27 @@
+Habitat	COG_group	COG_functional_category	Annoprotein_number
+AllHabitat5	Cellular Processes And Signaling	D	433206
+AllHabitat5	Cellular Processes And Signaling	M	2028238
+AllHabitat5	Cellular Processes And Signaling	N	436918
+AllHabitat5	Cellular Processes And Signaling	O	1533914
+AllHabitat5	Cellular Processes And Signaling	T	1424116
+AllHabitat5	Cellular Processes And Signaling	U	467390
+AllHabitat5	Cellular Processes And Signaling	V	915544
+AllHabitat5	Cellular Processes And Signaling	W	188621
+AllHabitat5	Cellular Processes And Signaling	Y	0
+AllHabitat5	Cellular Processes And Signaling	Z	30272
+AllHabitat5	Information Storage And Processing	A	7399
+AllHabitat5	Information Storage And Processing	B	2338
+AllHabitat5	Information Storage And Processing	J	2904457
+AllHabitat5	Information Storage And Processing	K	1456207
+AllHabitat5	Information Storage And Processing	L	1350691
+AllHabitat5	Metabolism	C	2281767
+AllHabitat5	Metabolism	E	2910380
+AllHabitat5	Metabolism	F	1095462
+AllHabitat5	Metabolism	G	1808012
+AllHabitat5	Metabolism	H	2118229
+AllHabitat5	Metabolism	I	1587221
+AllHabitat5	Metabolism	P	1540144
+AllHabitat5	Metabolism	Q	493112
+AllHabitat5	Metabolism	X	153438
+AllHabitat5	Poorly Characterized	R	2465846
+AllHabitat5	Poorly Characterized	S	844401
