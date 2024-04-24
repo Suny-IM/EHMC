@@ -176,7 +176,8 @@ less than or equal to 5 and the quality score (quality socre = completeness - 5 
 
    Example lines for genomeInfo.csv
 
-  ![image](https://github.com/Suny-IM/EHMC/assets/166774491/10e7b3cf-d4fd-40de-947d-3c36e6dc185b)
+   ![image](https://github.com/Suny-IM/EHMC/assets/166774491/6af4f434-3166-476e-891d-8af5fba871cf)
+
 
 
 ##### Run dRep
