@@ -1,0 +1,6 @@
+Habitat	Function	Allfaa_num	Annoted_num	Unannoted_num
+saline_alkaline	COG	12790904	5715045	7075859
+saline_alkaline	KEGG	12790904	4344252	8446652
+saline_alkaline	SwissProt	12790904	2632960	10157944
+saline_alkaline	UniRef100	12790904	8177120	4613784
+saline_alkaline	Pfam	12790904	7671953	5118951
