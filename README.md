@@ -287,9 +287,9 @@ Notice:
 metagenome_iteration_mix.sh  contain the script "/pipeline/co-assembly/assembly_binning.sh".
 assembly_binning.sh contain the script "/pipeline/co-assembly/pick_contigs_megahit.pl".
 
-metagenome_iteration_mix.sh will do iteration assembly and binning, until the iteration's number reach to 3 or no B bins were generated in this iteration.
+metagenome_iteration_mix.sh will do iteration assembly and binning, until the iteration's number reach to 3 or no A/B bins were generated in this iteration.
 
-B bins means the genomes meet the requirement that completeness greater than or equal to 90 and contamination less than or equal to 5.
+A/B bins means the genomes meet the requirement that completeness greater than or equal to 90 and contamination less than or equal to 5.
 
 If the last iteration number for Cluster1 was 3, there will be 3 directory named as "I1", "I2" and "I3" generated under "mix_dir/Cluster1/Iteration".
 
