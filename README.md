@@ -1,6 +1,6 @@
 # The construction of metagenome-assembled genomes by a combinational strategy of single and co-assembly
 
-
+This directory contains scripts related to the manuscript "Pan-metagenomic analysis of extreme environments reveals the diversity and complexity of its microbial composition and functions".
 
 
 ## PREPARE
@@ -135,7 +135,8 @@ In script run_nmf.R, we set the chosing rank from 2 to 25, but in real operation
 
 Chosing a suitable rank number by "consensusmap.pdf" and "nmf_rank_survey.pdf" image.
 
-![a4b09148e610431bcfc3cfabdb3c17b0.png](en-resource://database/6993:1) ![aea99d9e6a0224d3823796f9e88d7b16.png](en-resource://database/6995:1)
+![image](https://github.com/Suny-IM/EHMC/assets/166774491/cc5b8ea0-dacd-4835-86e7-f59a1b8696a5) ![image](https://github.com/Suny-IM/EHMC/assets/166774491/60b2d6e4-e550-4616-b482-d712a79ec8e1)
+
 
 For two picture showing as example here, we think rank 9 will be good enough, we chose the rank based on the number that cophenetic start to drop, also take consensusmap into consideration.
 
@@ -175,7 +176,8 @@ less than or equal to 5 and the quality score (quality socre = completeness - 5 
 
    Example lines for genomeInfo.csv
 
-   ![4440d2462214078ed64b26b1c621929d.png](en-resource://database/6991:1)
+  ![image](https://github.com/Suny-IM/EHMC/assets/166774491/10e7b3cf-d4fd-40de-947d-3c36e6dc185b)
+
 
 ##### Run dRep
 
