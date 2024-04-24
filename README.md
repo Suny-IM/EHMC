@@ -1,7 +1,7 @@
-# 【The construction of metagenome-assembled genomes by a combinational strategy of single and co-assembly 临时脚本名】
+# The construction of metagenome-assembled genomes by a combinational strategy of single and co-assembly
 
 
-This directory contains scripts related to the manuscript "【文章名】".
+
 
 ## PREPARE
 
