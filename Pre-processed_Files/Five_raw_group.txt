@@ -1,0 +1,703 @@
+Run	Isolate_Source1	Isolate_Source2	Isolate_Source3	Habitat
+SRR10095340	Hot spring	Canada: Liard River, BC	Canada: Liard River, BC	Hot
+SRR10294826	Hydrothermal related	Atlantic Ocean:Lost City Hydrothermal Field	Atlantic Ocean: Lost City Hydrothermal Field	Hot
+SRR10309773	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Diffuse Flow, Brothers Volcano	Pressure
+SRR10310285	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Upper Cone, Brothers Volcano	Cross_habitat
+SRR10312489	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera B, Brothers Volcano	Cross_habitat
+SRR10312490	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera B, Brothers Volcano	Cross_habitat
+SRR10312491	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Upper Caldera Wall, Brothers Volcano	Cross_habitat
+SRR10312492	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera A, Brothers Volcano	Pressure
+SRR10312493	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Lower Cone, Brothers Volcano	Cross_habitat
+SRR10312494	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Diffuse Flow, Brothers Volcano	Pressure
+SRR10312495	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Lower Cone, Brothers Volcano	Cross_habitat
+SRR10312496	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera A, Brothers Volcano	Pressure
+SRR10312497	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Upper Cone, Brothers Volcano	Cross_habitat
+SRR10312498	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera B, Brothers Volcano	Cross_habitat
+SRR10312499	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera A, Brothers Volcano	Pressure
+SRR10312500	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera A, Brothers Volcano	Pressure
+SRR10312501	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera A, Brothers Volcano	Pressure
+SRR10312502	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: NW Caldera A, Brothers Volcano	Pressure
+SRR10312503	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Upper Caldera Wall, Brothers Volcano	Cross_habitat
+SRR10312504	Hydrothermal related	Pacific Ocean: Brothers Volcano	Pacific Ocean: Upper Cone, Brothers Volcano	Cross_habitat
+SRR10519663	Hot spring	USA: California	USA: Cone Pool, California	Hot
+SRR10846467	Saline lake	USA: Great Salt Lake	USA: Great Salt Lake	Saline-alkaline
+SRR11060885	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR11582141	Hot spring	Costa Rica	Costa Rica: Borinquen hot springs	Hot
+SRR11582143	Hot spring	Costa Rica	Costa Rica: Rio Cayuco hot springs	Hot
+SRR11582144	Hot spring	Costa Rica	Costa Rica: Rio Cayuco hot springs	Hot
+SRR11582145	Hot spring	Costa Rica	Costa Rica: Blue River hot springs	Hot
+SRR11582146	Hot spring	Costa Rica	Costa Rica: Blue River hot springs	Hot
+SRR11582147	Hot spring	Costa Rica	Costa Rica: Blue River hot springs	Hot
+SRR11582148	Hot spring	Costa Rica	Costa Rica: Blue River hot springs	Hot
+SRR11582149	Hot spring	Costa Rica	Costa Rica: El Tucano Hot Spring	Hot
+SRR11582150	Hot spring	Costa Rica	Costa Rica: El Tucano Hot Spring	Hot
+SRR11582153	Hot spring	Costa Rica	Costa Rica: Santa Lucia Hot Spring	Hot
+SRR11582154	Hot spring	Costa Rica	Costa Rica: Santa Lucia Hot Spring	Hot
+SRR11582155	Hot spring	Costa Rica	Costa Rica: Borinquen hot springs	Hot
+SRR11582156	Hot spring	Costa Rica	Costa Rica: Recreo Verde deep well, flank of Poas Volcano	Hot
+SRR11582161	Hot spring	Costa Rica	Costa Rica: Quepos Hot Spring (Spring #1)	Hot
+SRR11582166	Hot spring	Costa Rica	Costa Rica: Borinquen hot springs	Hot
+SRR11582167	Hot spring	Costa Rica	Costa Rica: 50 m open well (Mouse Trap)	Hot
+SRR11582170	Hot spring	Costa Rica	Costa Rica: Finca ANDE hot spring	Hot
+SRR12088346	Saline lake	Spain: Laguna del Tobar	Spain: Laguna del Tobar	Saline-alkaline
+SRR12088347	Saline lake	Spain: Laguna del Tobar	Spain: Laguna del Tobar	Saline-alkaline
+SRR12088348	Saline lake	Spain: Laguna del Tobar	Spain: Laguna del Tobar	Saline-alkaline
+SRR12124855	Hot spring	Italy: Agnano, Naples	Italy: Agnano, Naples	Cross_habitat
+SRR12124856	Hot spring	Italy: Agnano, Naples	Italy: Agnano, Naples	Hot
+SRR12124857	Hot spring	Italy: Agnano, Naples	Italy: Agnano, Naples	Hot
+SRR12277191	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12277192	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12277193	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12277194	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12277195	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cold
+SRR12277196	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cold
+SRR12277197	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cold
+SRR12277198	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12277199	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12277200	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12277201	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12277202	Permafrost	Switzerland: Muot-da-Barba-Peider, Alps	Switzerland: Muot-da-Barba-Peider, Alps	Cross_habitat
+SRR12366058	Antarctic saline lake	Antarcitica: Unnamed Lake-13	Antarcitica: Unnamed Lake-13	Saline-alkaline
+SRR12366580	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR12366599	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR12604679	Hydrothermal related	Pacific Ocean: East Pacific Rise	Pacific Ocean: East Pacific Rise	Pressure
+SRR12852618	Hydrothermal related	USA: Wyoming	USA: Yellowstone Lake, Wyoming	Cross_habitat
+SRR12852619	Hydrothermal related	USA: Wyoming	USA: Yellowstone Lake, Wyoming	Cross_habitat
+SRR12852620	Hydrothermal related	USA: Wyoming	USA: Yellowstone Lake, Wyoming	Cross_habitat
+SRR12852621	Hydrothermal related	USA: Wyoming	USA: Yellowstone Lake, Wyoming	Cross_habitat
+SRR12852622	Hydrothermal related	USA: Wyoming	USA: Yellowstone Lake, Wyoming	Cross_habitat
+SRR12949764	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR12969846	Hot spring	India: Himachal Pradesh	India: Khirganga hotspring, Himachal Pradesh, Northern Hiamayas	Hot
+SRR12976788	Hot spring	India: Himachal Pradesh	India: Khirganga hotspring, Himachal Pradesh, Northern Hiamayas	Hot
+SRR12977061	Hot spring	India: Himachal Pradesh	India: Khirganga hotspring, Himachal Pradesh, Northern Hiamayas	Hot
+SRR12989705	Hot spring	India: Himachal Pradesh	India: Khirganga hotspring, Himachal Pradesh, Northern Hiamayas	Hot
+SRR12997672	Hot spring	India: Himachal Pradesh	India: Khirganga hotspring, Himachal Pradesh, Northern Hiamayas	Hot
+SRR12997673	Hot spring	India: Himachal Pradesh	India: Khirganga hotspring, Himachal Pradesh, Northern Hiamayas	Hot
+SRR13106729	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106730	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106731	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106732	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106733	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106734	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106735	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106736	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106737	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106739	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13106740	Permafrost	Russia:Cape Chukochii, East Siberian Sea	Russia:Cape Chukochii, East Siberian Sea	Cold
+SRR13162838	Acid mine drainage	China: Guizhou	China: Banpo Antimony Mine, Guizhou Province	Acid
+SRR13164998	Acid mine drainage	China: Jiangxi	China: Dexing Copper Mine, Jiangxi Province	Acid
+SRR13170410	Acid mine drainage	China: Guangdong	China: Dabaoshan Pyrite-Copper Mine, Guangdong Province	Acid
+SRR13170411	Acid mine drainage	China: Guangdong	China: Dabaoshan Pyrite-Copper Mine, Guangdong Province	Acid
+SRR13170412	Acid mine drainage	China: Guangdong	China: Dabaoshan Pyrite-Copper Mine, Guangdong Province	Acid
+SRR13170413	Acid mine drainage	China: Guangdong	China: Dabaoshan Pyrite-Copper Mine, Guangdong Province	Acid
+SRR13170414	Acid mine drainage	China: Jiangxi	China: Dexing Copper Mine, Jiangxi Province	Acid
+SRR13170451	Acid mine drainage	China: Guizhou	China: Banpo Antimony Mine, Guizhou Province	Acid
+SRR13178627	Acid mine drainage	China: Guizhou	China: Banpo Antimony Mine, Guizhou Province	Acid
+SRR13178628	Acid mine drainage	China: Guizhou	China: Banpo Antimony Mine, Guizhou Province	Acid
+SRR13178629	Acid mine drainage	China: Guangdong	China: Dabaoshan Pyrite-Copper Mine, Guangdong Province	Acid
+SRR13178630	Acid mine drainage	China: Guizhou	China: Banpo Antimony Mine, Guizhou Province	Acid
+SRR13178631	Acid mine drainage	China: Guangdong	China: Dabaoshan Pyrite-Copper Mine, Guangdong Province	Acid
+SRR13178663	Acid mine drainage	China: Guangxi	China: Dashan Tin-Zinc Mine, Guangxi Province	Acid
+SRR13179634	Acid mine drainage	China: Guangxi	China: Longshenao Polymetallic Mine, Guangxi Province	Acid
+SRR13179680	Acid mine drainage	China: Guizhou	China: Jiuan Polymetallic Mine, Guizhou Province	Acid
+SRR13188906	Acid mine drainage	China: Guangxi	China: Longshenao Polymetallic Mine, Guangxi Province	Acid
+SRR13188907	Acid mine drainage	China: Guangxi	China: Longshenao Polymetallic Mine, Guangxi Province	Acid
+SRR13188939	Acid mine drainage	China: Guangxi	China: Longshenao Polymetallic Mine, Guangxi Province	Acid
+SRR13188940	Acid mine drainage	China: Guangxi	China: Longshenao Polymetallic Mine, Guangxi Province	Acid
+SRR13188941	Acid mine drainage	China: Guangdong	China: Fankou Lead-Zinc Mine, Guangdong Province	Acid
+SRR13189623	Acid mine drainage	China: Hunan	China: Shuikoushan Lead-Zinc Mine, Hunan Province	Acid
+SRR13189639	Acid mine drainage	China: Guangdong	China: Fankou Lead-Zinc Mine, Guangdong Province	Acid
+SRR13190158	Acid mine drainage	China: Anhui	China: Maanshan Magnetite Mine, Anhui Province	Acid
+SRR13197234	Acid mine drainage	China: Guizhou	China: Zhijin Polymetallic Mine, Guizhou Province	Acid
+SRR13197295	Acid mine drainage	China: Guizhou	China: Zhijin Polymetallic Mine, Guizhou Province	Acid
+SRR13197296	Acid mine drainage	China: Guizhou	China: Zhijin Polymetallic Mine, Guizhou Province	Acid
+SRR13197350	Acid mine drainage	China: Guangxi	China: Dashan Tin-Zinc Mine, Guangxi Province	Acid
+SRR13197465	Acid mine drainage	China: Jiangxi	China: Dexing Copper Mine, Jiangxi Province	Acid
+SRR13199767	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR13200009	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR13200013	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR13200029	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR13200201	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR13200202	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR13201254	Acid mine drainage	China: Guangdong	China: Fankou Lead-Zinc Mine, Guangdong Province	Acid
+SRR13201267	Acid mine drainage	China: Hunan	China: Huangshaping Lead-Zinc Mine, Hunan Province	Acid
+SRR13201268	Acid mine drainage	China: Guizhou	China: Jiuan Polymetallic Mine, Guizhou Province	Acid
+SRR13201269	Acid mine drainage	China: Guizhou	China: Jiuan Polymetallic Mine, Guizhou Province	Acid
+SRR13201271	Acid mine drainage	China: Guizhou	China: Jiuan Polymetallic Mine, Guizhou Province	Acid
+SRR13201272	Acid mine drainage	China: Guizhou	China: Zhijin Polymetallic Mine, Guizhou Province	Acid
+SRR13201275	Acid mine drainage	China: Guizhou	China: Zhijin Polymetallic Mine, Guizhou Province	Acid
+SRR13201295	Acid mine drainage	China: Guizhou	China: Zhijin Polymetallic Mine, Guizhou Province	Acid
+SRR13203214	Acid mine drainage	China: Jiangxi	China: Yinshan Lead-Zinc Mine, Jiangxi Province	Acid
+SRR13203219	Acid mine drainage	China: Jiangxi	China: Yinshan Lead-Zinc Mine, Jiangxi Province	Acid
+SRR13203220	Acid mine drainage	China: Jiangxi	China: Yinshan Lead-Zinc Mine, Jiangxi Province	Acid
+SRR13203221	Acid mine drainage	China: Jiangxi	China: Yinshan Lead-Zinc Mine, Jiangxi Province	Acid
+SRR13203224	Acid mine drainage	China: Guangdong	China: Fankou Lead-Zinc Mine, Guangdong Province	Acid
+SRR13203225	Acid mine drainage	China: Hunan	China: Huangshaping Lead-Zinc Mine, Hunan Province	Acid
+SRR13203226	Acid mine drainage	China: Jiangxi	China: Yinshan Lead-Zinc Mine, Jiangxi Province	Acid
+SRR13203278	Acid mine drainage	China: Guizhou	China: Jiuan Polymetallic Mine, Guizhou Province	Acid
+SRR13205813	Acid mine drainage	China: Jiangxi	China: Yongping Copper Mine, Jiangxi Province	Acid
+SRR13205814	Acid mine drainage	China: Jiangxi	China: Yongping Copper Mine, Jiangxi Province	Acid
+SRR13205815	Acid mine drainage	China: Jiangxi	China: Yongping Copper Mine, Jiangxi Province	Acid
+SRR13205816	Acid mine drainage	China: Guizhou	China: Longli Polymetallic Mine, Guizhou Province	Acid
+SRR13205817	Acid mine drainage	China: Jiangxi	China: Yongping Copper Mine, Jiangxi Province	Acid
+SRR13206276	Acid mine drainage	China: Jiangxi	China: Yongping Copper Mine, Jiangxi Province	Acid
+SRR13206618	Acid mine drainage	China: Guangdong	China: Yunfu Pyrite Mine, Guangdong Province	Acid
+SRR13206894	Acid mine drainage	China: Guangdong	China: Yunfu Pyrite Mine, Guangdong Province	Acid
+SRR13213325	Acid mine drainage	China: Guizhou	China: Longli Polymetallic Mine, Guizhou Province	Acid
+SRR13213326	Acid mine drainage	China: Guizhou	China: Longli Polymetallic Mine, Guizhou Province	Acid
+SRR13213327	Acid mine drainage	China: Guizhou	China: Longli Polymetallic Mine, Guizhou Province	Acid
+SRR13213328	Acid mine drainage	China: Guangdong	China: Yunfu Pyrite Mine, Guangdong Province	Acid
+SRR13213329	Acid mine drainage	China: Guangdong	China: Yunfu Pyrite Mine, Guangdong Province	Acid
+SRR13213330	Acid mine drainage	China: Guangdong	China: Yunfu Pyrite Mine, Guangdong Province	Acid
+SRR13213331	Acid mine drainage	China: Guizhou	China: Jiuan Polymetallic Mine, Guizhou Province	Acid
+SRR13221982	Acid mine drainage	China: Guizhou	China: Longli Polymetallic Mine, Guizhou Province	Acid
+SRR13221984	Acid mine drainage	China: Anhui	China: Maanshan Magnetite Mine, Anhui Province	Acid
+SRR13221993	Acid mine drainage	China: Anhui	China: Maanshan Magnetite Mine, Anhui Province	Acid
+SRR13221994	Acid mine drainage	China: Anhui	China: Maanshan Magnetite Mine, Anhui Province	Acid
+SRR13221996	Acid mine drainage	China: Anhui	China: Maanshan Magnetite Mine, Anhui Province	Acid
+SRR13221998	Acid mine drainage	China: Hunan	China: Shuikoushan Lead-Zinc Mine, Hunan Province	Acid
+SRR13222494	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13222495	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13223810	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13235777	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13235778	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13235779	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13236502	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13236670	Acid mine drainage	China: Anhui	China: Wuhu Polymetallic Mine, Anhui Province	Acid
+SRR13236724	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13236739	Acid mine drainage	China: Anhui	China: Wuhu Polymetallic Mine, Anhui Province	Acid
+SRR13237537	Acid mine drainage	China: Anhui	China: Wuhu Polymetallic Mine, Anhui Province	Acid
+SRR13237539	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13240876	Acid mine drainage	China: Guangxi	China: Wuyi Polymetallic Mine, Guangxi Province	Acid
+SRR13241953	Acid mine drainage	China: Guangxi	China: Wuyi Polymetallic Mine, Guangxi Province	Acid
+SRR13245424	Acid mine drainage	China: Anhui	China: Tongling Copper Mine, Anhui Province	Acid
+SRR13299515	Acid mine drainage	China: Guangxi	China: Wuyi Polymetallic Mine, Guangxi Province	Acid
+SRR13300764	Acid mine drainage	China: Guangxi	China: Wuyi Polymetallic Mine, Guangxi Province	Acid
+SRR13304626	Acid mine drainage	China: Anhui	China: Wuhu Polymetallic Mine, Anhui Province	Acid
+SRR13304735	Acid mine drainage	China: Anhui	China: Wuhu Polymetallic Mine, Anhui Province	Acid
+SRR13572580	Saline lake	Tanzania: Arusha National Park	Tanzania: Arusha National Park	Saline-alkaline
+SRR13615824	Permafrost	Russia: Siberia	Russia: Kolyma-Indigirka Lowland, Siberia	Cold
+SRR13615825	Permafrost	Russia: Siberia	Russia: Kolyma-Indigirka Lowland, Siberia	Cold
+SRR13615826	Permafrost	Russia: Siberia	Russia: Kolyma-Indigirka Lowland, Siberia	Cold
+SRR13696273	Saline lake	Tanzania: Arusha National Park	Tanzania: Arusha National Park	Saline-alkaline
+SRR13696706	Antarctic saline lake	Antarctica: Club Lake	Antarctica: Club Lake	Saline-alkaline
+SRR13720463	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR13920260	Antarctic saline lake	Antarctica: Unnamed Portals Lake	Antarctica: Unnamed Portals Lake	Saline-alkaline
+SRR14023866	Saline lake	USA: Great Salt Lake	USA: Great Salt Lake	Saline-alkaline
+SRR14023877	Saline lake	USA: Great Salt Lake	USA: Great Salt Lake	Saline-alkaline
+SRR14023937	Saline lake	USA: Great Salt Lake	USA: Great Salt Lake	Saline-alkaline
+SRR14300307	Saline lake	Russia: Republic of Khakassia, Shirinsky District, Lake Shunet	Russia: Republic of Khakassia, Shirinsky District, Lake Shunet	Saline-alkaline
+SRR14300308	Saline lake	Russia: Republic of Khakassia, Shirinsky District, Lake Shunet	Russia: Republic of Khakassia, Shirinsky District, Lake Shunet	Saline-alkaline
+SRR14492174	Saline lake	China: Xinjiang	China: Qijiaojing Lake, Xinjiang	Saline-alkaline
+SRR14492175	Saline lake	China: Xinjiang	China: Qijiaojing Lake, Xinjiang	Saline-alkaline
+SRR14492176	Saline lake	China: Xinjiang	China: Qijiaojing Lake, Xinjiang	Saline-alkaline
+SRR14492178	Saline lake	China: Xinjiang	China: Qijiaojing Lake, Xinjiang	Saline-alkaline
+SRR14492179	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492180	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492181	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492182	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492183	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492184	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492185	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492186	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492187	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492189	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492190	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492191	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492192	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR14492193	Saline lake	China: Xinjiang	China: Barkol Lake, Xinjiang	Saline-alkaline
+SRR3223410	Hydrothermal related	Gulf of California	NA, Gulf of California	Pressure
+SRR3341855	Saline lake	Argentina: Socompa Lake, Salta	Argentina: Socompa Lake, Salta	Saline-alkaline
+SRR3723048	Hydrothermal related	Pacific Ocean: mid-ocean ridge	Pacific Ocean: Juan de Fuca Ridge, mid-ocean ridge	Cross_habitat
+SRR3732688	Hydrothermal related	Pacific Ocean: mid-ocean ridge	Pacific Ocean: Juan de Fuca Ridge, mid-ocean ridge	Cross_habitat
+SRR3984960	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3984961	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3984962	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3984963	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985186	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985188	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985190	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985368	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985369	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985370	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985376	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985382	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985383	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985384	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985385	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985388	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985389	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985390	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985391	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985394	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985395	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985396	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985397	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985418	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985419	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985420	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985421	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985424	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985523	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985524	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985525	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985526	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985527	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985624	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3985625	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989117	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989121	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989217	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989218	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989219	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989220	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989223	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989224	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989238	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR3989239	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR4027687	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR4027688	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR4030098	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR4030103	Hot spring	USA: Wyoming	USA: One Hundred Spring Plain, Wyoming	Cross_habitat
+SRR4030105	Hot spring	USA: California	USA: Elkhorn Slough, Monterey Bay, California	Saline-alkaline
+SRR4030107	Hot spring	USA: California	USA: Elkhorn Slough, Monterey Bay, California	Saline-alkaline
+SRR4030111	Hot spring	USA: California	USA: Elkhorn Slough, Monterey Bay, California	Saline-alkaline
+SRR4242549	Permafrost	Russia: Bykovsky Peninsula	Russia: Bykovsky Peninsula	Cold
+SRR4242550	Permafrost	Russia: Gydan Peninsula	Russia: Gydan Peninsula	Cold
+SRR4242551	Permafrost	Russia: Omolon River	Russia: Omolon River	Cold
+SRR5189948	Hydrothermal related	Pacific Ocean: Loihi Seamount	Pacific Ocean: Loihi Seamount	Pressure
+SRR5189949	Hydrothermal related	Pacific Ocean: Loihi Seamount	Pacific Ocean: Loihi Seamount	Pressure
+SRR5189950	Hydrothermal related	Pacific Ocean: Loihi Seamount	Pacific Ocean: Loihi Seamount	Pressure
+SRR5189951	Hydrothermal related	Pacific Ocean: Loihi Seamount	Pacific Ocean: Loihi Seamount	Pressure
+SRR5189952	Hydrothermal related	Pacific Ocean: Loihi Seamount	Pacific Ocean: Loihi Seamount	Pressure
+SRR5189953	Hydrothermal related	Pacific Ocean: Loihi Seamount	Pacific Ocean: Loihi Seamount	Pressure
+SRR5214705	Hot spring	South Africa: Limpopo	South Africa: Limpopo	Hot
+SRR5214706	Hot spring	South Africa: Tshipise	South Africa: Tshipise	Hot
+SRR5216251	Hot spring	USA: California	USA: Cone Pool, California	Hot
+SRR5216256	Hot spring	USA: California	USA: Cone Pool, California	Hot
+SRR5216647	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR5216649	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR5216650	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR5216651	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR5216652	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler E6, Rauer Islands	Saline-alkaline
+SRR5216654	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR5216655	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler E11, Rauer Islands	Saline-alkaline
+SRR5216656	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR5216657	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler E11, Rauer Islands	Saline-alkaline
+SRR5216658	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler Filla 1, Rauer Islands	Saline-alkaline
+SRR5247126	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR5248167	Hot spring	USA: Wyoming	USA: Obsidian Pool, Wyoming	Hot
+SRR5248299	Hot spring	USA: Wyoming	USA: Obsidian Pool, Wyoming	Hot
+SRR5248300	Hot spring	USA: Wyoming	USA: Obsidian Pool, Wyoming	Hot
+SRR5248301	Hot spring	USA: Wyoming	USA: Obsidian Pool, Wyoming	Hot
+SRR5248302	Hot spring	USA: Wyoming	USA: Obsidian Pool, Wyoming	Hot
+SRR5248364	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR5248365	Hot spring	USA: Wyoming	USA: Obsidian Pool, Wyoming	Hot
+SRR5248366	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR5248374	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR5248403	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR5248875	Hot spring	USA: Wyoming	USA: Obsidian Pool, Wyoming	Hot
+SRR5248876	Hot spring	USA: Wyoming	USA: Obsidian Pool, Wyoming	Hot
+SRR5271190	Saline lake	USA: Hot Lake, Washington	USA: Hot Lake, Washington	Saline-alkaline
+SRR5450431	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450432	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450434	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450438	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450631	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450747	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450755	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450756	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450757	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450758	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450759	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5450830	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5451031	Hot spring	Chile: Los lagos, Porcelana Hot Spring	Chile: Los lagos, Porcelana Hot Spring	Hot
+SRR5451032	Hot spring	Chile: Los lagos, Porcelana Hot Spring	Chile: Los lagos, Porcelana Hot Spring	Hot
+SRR5451033	Hot spring	Chile: Los lagos, Porcelana Hot Spring	Chile: Los lagos, Porcelana Hot Spring	Hot
+SRR5451355	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR5451356	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR5451357	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR5457699	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR5458543	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR5458544	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR5458594	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458596	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458597	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458598	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458681	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458685	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458845	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458846	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458847	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458848	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5458850	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5459186	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5459187	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5459189	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR5459190	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR5468531	Hot spring	USA: Nevada	USA:Sandy's Spring West,  Nevada	Hot
+SRR5468563	Hot spring	USA: Nevada	USA:Sandy's Spring West,  Nevada	Hot
+SRR5468564	Hot spring	USA: California	USA: Little Hot Creek 4, California	Hot
+SRR5469038	Hot spring	China	China	Hot
+SRR5469039	Hot spring	China	China	Hot
+SRR5471030	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5471031	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5471032	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5471221	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5476649	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5476651	Permafrost	USA: Alaska	USA: Alaska	Cold
+SRR5580868	Hot spring	Canada: Banff	Canada: Banff	Acid
+SRR5581653	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR5581654	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5581655	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR5637210	Saline lake	Australia: Victoria	Australia: Lake Tyrrell, Victoria	Saline-alkaline
+SRR5641139	Hot spring	USA: California	USA: Elkhorn Slough, Monterey Bay, California	Saline-alkaline
+SRR5659263	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5660397	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5660398	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5664279	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5664280	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5665213	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5665647	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5665648	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5665809	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5665811	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5674476	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5674536	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5680860	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR5747841	Hot spring	USA: Nevada	USA:Beatty,  Nevada	Hot
+SRR5747861	Hot spring	USA: Nevada	USA:Beatty,  Nevada	Hot
+SRR5826612	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826613	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826614	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826615	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826616	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826617	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826618	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826619	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826620	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826621	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826627	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826628	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826631	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826632	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826633	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR5826634	Saline lake	USA: California	USA: Mono Lake, California	Saline-alkaline
+SRR6129205	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler E6, Rauer Islands	Saline-alkaline
+SRR6129206	Antarctic saline lake	Antarctica: Club Lake	Antarctica: Club Lake	Saline-alkaline
+SRR6129207	Antarctic saline lake	Antarctica: Club Lake	Antarctica: Club Lake	Saline-alkaline
+SRR6129208	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129209	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129210	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129211	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129212	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129228	Antarctic saline lake	Antarctica: Club Lake	Antarctica: Club Lake	Saline-alkaline
+SRR6129229	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler E6, Rauer Islands	Saline-alkaline
+SRR6129343	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129344	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129541	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129542	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler Filla 3, Rauer Islands	Saline-alkaline
+SRR6129543	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6129544	Antarctic saline lake	Antarctica: Club Lake	Antarctica: Club Lake	Saline-alkaline
+SRR6129545	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler Filla 3, Rauer Islands	Saline-alkaline
+SRR6129546	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler Filla 3, Rauer Islands	Saline-alkaline
+SRR6129595	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler Filla 1, Rauer Islands	Saline-alkaline
+SRR6129596	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler Filla 1, Rauer Islands	Saline-alkaline
+SRR6129767	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6129768	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6129769	Antarctic saline lake	Antarctica: Rauer Islands	Antarctica: Torckler E11, Rauer Islands	Saline-alkaline
+SRR6129770	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6186031	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6186032	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6186033	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Cross_habitat
+SRR6186128	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6186129	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6186130	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6186131	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6186148	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6186149	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6186223	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR6301444	Hydrothermal related	Gulf of California	NA, Gulf of California	Cross_habitat
+SRR6301445	Hydrothermal related	Gulf of California	NA, Gulf of California	Pressure
+SRR6301446	Hydrothermal related	Gulf of California	NA, Gulf of California	Cross_habitat
+SRR6301447	Hydrothermal related	Gulf of California	NA, Gulf of California	Cross_habitat
+SRR6311220	Hot spring	Russia: Kamchatka	Russia: Kamchatka, Mutnovsky	Cross_habitat
+SRR6311221	Hot spring	Russia: Kamchatka	Russia: Kamchatka, Mutnovsky	Cross_habitat
+SRR6311222	Hot spring	Russia: Kamchatka	Russia: Kamchatka, Uzon Caldera	Hot
+SRR6311223	Hot spring	Russia: Kamchatka	Russia: Kamchatka, Uzon Caldera	Hot
+SRR6311224	Hot spring	Russia: Kamchatka	Russia: Kamchatka, Mutnovsky	Cross_habitat
+SRR6490520	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6490521	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6490522	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6490523	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6491179	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6505091	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6505094	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6505095	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6505096	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6505097	Permafrost	Sweden: Stordalen	Sweden: Stordalen	Cold
+SRR6963308	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963311	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963312	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963352	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963479	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963480	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963491	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963492	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963587	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR6963591	Saline lake	USA: California	USA: Salton Sea, California	Saline-alkaline
+SRR7051036	Hydrothermal related	Gulf of California	Ultra Mound gradient site, Gulf of California	Pressure
+SRR7051055	Hydrothermal related	Gulf of California	Ultra Mound gradient site, Gulf of California	Pressure
+SRR7051056	Hydrothermal related	Gulf of California	Ultra Mound gradient site, Gulf of California	Pressure
+SRR7051057	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051058	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051071	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051072	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051073	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051074	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051160	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051180	Hydrothermal related	Gulf of California	Rebecca's Roost sulfide chimney, Gulf of California	Pressure
+SRR7051181	Hydrothermal related	Gulf of California	Rebecca's Roost sulfide chimney, Gulf of California	Pressure
+SRR7051207	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051208	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051210	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051211	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051242	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051243	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051244	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051245	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051260	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051261	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051262	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051264	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051265	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051266	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051268	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051275	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051276	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051277	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051278	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051283	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051284	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051285	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051295	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051296	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051320	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051321	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7051322	Hydrothermal related	Gulf of California	Cathedral Hill gradient site, Gulf of California	Pressure
+SRR7067822	Hot spring	USA: Nevada	USA: Great Boiling Springs, Gerlach, Nevada	Hot
+SRR7067823	Hot spring	USA: Nevada	USA: Great Boiling Springs, Gerlach, Nevada	Hot
+SRR7067986	Hot spring	USA: Nevada	USA: Great Boiling Springs, Gerlach, Nevada	Hot
+SRR7141806	Antarctic saline lake	Antarctica: Deep Lake	Antarctica: Deep Lake	Saline-alkaline
+SRR7168047	Hydrothermal related	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pressure
+SRR7168048	Hydrothermal related	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pressure
+SRR7168049	Hydrothermal related	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pressure
+SRR7168050	Hydrothermal related	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pressure
+SRR7168051	Hydrothermal related	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pressure
+SRR7168052	Hydrothermal related	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pressure
+SRR7168053	Hydrothermal related	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pacific Ocean: Mariana Back-Arc Basin vent fields	Cross_habitat
+SRR7168054	Hydrothermal related	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pacific Ocean: Mariana Back-Arc Basin vent fields	Pressure
+SRR7268657	Acid mine drainage	United Kingdom: Island of Anglesey, North Wales	United Kingdom: Island of Anglesey, North Wales	Acid
+SRR7473442	Hot spring	India: Chattisgarh	India: Chattisgarh	Hot
+SRR7473443	Hot spring	India: Chattisgarh	India: Chattisgarh	Hot
+SRR7473444	Hot spring	India: Chattisgarh	India: Chattisgarh	Hot
+SRR7473445	Hot spring	India: Chattisgarh	India: Chattisgarh	Hot
+SRR7517633	Hydrothermal related	Gulf of California	Ultra Mound gradient site, Gulf of California	Pressure
+SRR7517634	Hydrothermal related	Gulf of California	Ultra Mound gradient site, Gulf of California	Pressure
+SRR7526679	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7527650	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7527651	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7527797	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7527863	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7527865	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528055	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528056	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528202	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528366	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528378	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528379	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528416	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR7528417	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR7528418	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR7528419	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR7528420	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR7528422	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528423	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528424	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528442	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528443	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528444	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528792	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528793	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528795	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528796	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528797	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528803	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528804	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528805	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528806	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528807	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528852	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528853	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528854	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528855	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528863	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528869	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528870	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528874	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528875	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528876	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528919	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528920	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528923	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528924	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7528925	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529027	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529028	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529087	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529088	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529089	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529090	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529097	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529098	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529184	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529407	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529408	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR7529409	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR7529410	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR7529760	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529956	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7529957	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7548545	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cold
+SRR7903765	Hot spring	Russia: Kunashir Island	Russia: Kunashir Island	Hot
+SRR7905022	Hot spring	Japan: Tokyo Prefecture, Shikinejima Island, Jinata Onsen	Japan: Tokyo Prefecture, Shikinejima Island, Jinata Onsen	Hot
+SRR7905023	Hot spring	Japan: Tokyo Prefecture, Shikinejima Island, Jinata Onsen	Japan: Tokyo Prefecture, Shikinejima Island, Jinata Onsen	Hot
+SRR7905024	Hot spring	Japan: Tokyo Prefecture, Shikinejima Island, Jinata Onsen	Japan: Tokyo Prefecture, Shikinejima Island, Jinata Onsen	Hot
+SRR7943696	Saline lake	Russia: Kulunda, Altai Krai	Russia: Salt Lake 48, Kulunda, Altai Krai	Saline-alkaline
+SRR7943839	Saline lake	Russia: Kulunda, Altai Krai	Russia: Salt Lake 48, Kulunda, Altai Krai	Saline-alkaline
+SRR7968063	Hydrothermal related	Pacific Ocean: East Pacific Rise	Pacific Ocean: East Pacific Rise	Pressure
+SRR7968064	Hydrothermal related	Pacific Ocean: East Pacific Rise	Pacific Ocean: East Pacific Rise	Pressure
+SRR7968103	Hydrothermal related	Pacific Ocean: East Pacific Rise	Pacific Ocean: East Pacific Rise	Pressure
+SRR7968104	Hydrothermal related	Pacific Ocean: East Pacific Rise	Pacific Ocean: East Pacific Rise	Pressure
+SRR7968105	Hydrothermal related	Pacific Ocean: Lau Basin	Pacific Ocean: Lau Basin	Pressure
+SRR7968106	Hydrothermal related	Gulf of California	Ultra Mound gradient site, Gulf of California	Pressure
+SRR7968107	Hydrothermal related	Gulf of California	Ultra Mound gradient site, Gulf of California	Pressure
+SRR7968108	Hydrothermal related	Atlantic Ocean: Mid Atlantic Ridge	Atlantic Ocean: Mid Atlantic Ridge	Pressure
+SRR7968109	Hydrothermal related	Gulf of California	NA, Gulf of California	Cross_habitat
+SRR7968110	Hydrothermal related	Atlantic Ocean: Mid Atlantic Ridge	Atlantic Ocean: Mid Atlantic Ridge	Pressure
+SRR7968113	Hydrothermal related	Atlantic Ocean: Mid Atlantic Ridge	Atlantic Ocean: Mid Atlantic Ridge	Pressure
+SRR7968125	Hydrothermal related	Gulf of California	NA, Gulf of California	Pressure
+SRR8090375	Permafrost	USA: Barrow Environmental Observatory site, Barrow, Alaska	USA: Barrow Environmental Observatory site, Barrow, Alaska	Cold
+SRR8188253	Permafrost	Russia: Siberia	Russia: Kolyma-Indigirka Lowland, Siberia	Cold
+SRR8188254	Permafrost	Russia: Siberia	Russia: Kolyma-Indigirka Lowland, Siberia	Cold
+SRR8439019	Hydrothermal related	Pacific Ocean: Lau Basin	Pacific Ocean: Lau Basin	Pressure
+SRR8439021	Hydrothermal related	Pacific Ocean: East Pacific Rise	Pacific Ocean: East Pacific Rise	Pressure
+SRR8439022	Hydrothermal related	Pacific Ocean: Lau Basin	Pacific Ocean: Lau Basin	Pressure
+SRR8439053	Hydrothermal related	Pacific Ocean: Lau Basin	Pacific Ocean: Lau Basin	Pressure
+SRR8439171	Hydrothermal related	Pacific Ocean: East Pacific Rise	Pacific Ocean: East Pacific Rise	Pressure
+SRR8439172	Hydrothermal related	Atlantic Ocean: Mid Atlantic Ridge	Atlantic Ocean: Mid Atlantic Ridge	Pressure
+SRR8439430	Hydrothermal related	Pacific Ocean: East Pacific Rise	Pacific Ocean: East Pacific Rise	Pressure
+SRR8450738	Saline lake	Spain: Penahueca Lagoon, Toledo	Spain: Penahueca Lagoon, Toledo	Saline-alkaline
+SRR8451930	Hydrothermal related	Arctic Ocean: ridge	Arctic Ocean: Southern Knipovich Ridge	Pressure
+SRR8452060	Hydrothermal related	Arctic Ocean: ridge	Arctic Ocean: Gakkel Ridge, Loki's castle	Pressure
+SRR8452062	Hydrothermal related	Arctic Ocean: ridge	Arctic Ocean: Southern Knipovich Ridge	Pressure
+SRR8496329	Permafrost	Canada	Canada: SAS2, Kuujjuarapik-Whapmagoostui	Acid
+SRR8496331	Permafrost	Canada	Canada: SAS2, Kuujjuarapik-Whapmagoostui	Acid
+SRR8496332	Permafrost	Canada	Canada: SAS2, Kuujjuarapik-Whapmagoostui	Acid
+SRR8496338	Permafrost	Canada	Canada: SAS2, Kuujjuarapik-Whapmagoostui	Acid
+SRR8496339	Permafrost	Canada	Canada: SAS2, Kuujjuarapik-Whapmagoostui	Acid
+SRR8496340	Permafrost	Canada	Canada: SAS2, Kuujjuarapik-Whapmagoostui	Acid
+SRR8496341	Permafrost	Canada	Canada: SAS2, Kuujjuarapik-Whapmagoostui	Acid
+SRR8526178	Antarctic saline lake	Antarctica: Ace Lake	Antarctica: Ace Lake	Cross_habitat
+SRR8526179	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8526180	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8526187	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8526188	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8526189	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8542060	Hydrothermal related	Pacific Ocean: mid-ocean ridge	Pacific Ocean: Juan de Fuca Ridge, mid-ocean ridge	Pressure
+SRR8861832	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8861833	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8861905	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8861906	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8861909	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8861994	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8861996	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8861999	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862004	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862018	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862060	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862061	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8862062	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8862063	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862064	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8862065	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862068	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862069	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862070	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8862071	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862075	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8862086	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8862087	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8862088	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Cross_habitat
+SRR8862089	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862090	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862126	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862127	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862128	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862129	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862130	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862131	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862132	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862133	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862134	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862135	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862141	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8862142	Antarctic saline lake	Antarctica: Organic Lake	Antarctica: Organic Lake	Saline-alkaline
+SRR8863373	Hot spring	USA: Wyoming	USA: NA, Wyoming	Hot
+SRR8863378	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR8863379	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR8863384	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR8863385	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR8863399	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR8863438	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR8863441	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR8863482	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR8863541	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR8863542	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR8863601	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR8863765	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9001935	Hot spring	Spain: Lobios	USA: Octopus Spring, Wyoming	Hot
+SRR9320187	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320188	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320191	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320192	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320193	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320194	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320195	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320196	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320197	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320198	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9320199	Acid mine drainage	USA: Ely Copper Mine, Vershire, VT	USA: Ely Copper Mine, Vershire, VT	Acid
+SRR9649876	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9649882	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9649883	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9649884	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9649885	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9649886	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9649887	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9649888	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9649889	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9649890	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9650298	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9650299	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9650326	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9650328	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9650329	Hot spring	USA: Wyoming	USA: Octopus Spring, Wyoming	Hot
+SRR9650340	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9650341	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9650342	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9650343	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9650344	Hot spring	USA: Wyoming	USA: Mushroom Spring, Wyoming	Hot
+SRR9849936	Hydrothermal related	Pacific Ocean: Loihi Seamount	Pacific Ocean: Loihi Seamount	Pressure
+SRR9849951	Hydrothermal related	Pacific Ocean: Loihi Seamount	Pacific Ocean: Loihi Seamount	Pressure
+SRR9849980	Hydrothermal related	Pacific Ocean: Urashima Vent Field, Southern Mariana Trough	Pacific Ocean: Urashima Vent Field, Southern Mariana Trough	Pressure
